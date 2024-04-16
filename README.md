@@ -4,8 +4,8 @@ Cisco | DevOps | Linux | Python
 
 ## Cisco
 
-[Learning Network](https://learningnetwork.cisco.com/), 
 [Cisco U](https://u.cisco.com), 
+[Learning Network](https://learningnetwork.cisco.com/), 
 [Omar Santos](https://github.com/The-Art-of-Hacking)
 
 ## Python
@@ -21,4 +21,5 @@ Cisco | DevOps | Linux | Python
 [The Algorithms](https://github.com/TheAlgorithms) [1]
 [Vinta Chen](https://github.com/vinta) [1]
 
-[1] [KDNuggets - 10 GitHub repositories to master python](https://www.kdnuggets.com/10-github-repositories-to-master-python)
+[1] [KDNuggets - 10 GitHub Repositories to Master Python](https://www.kdnuggets.com/10-github-repositories-to-master-python)
+[2] [KDNuggets - Mastering Python for Data Science: Beyond the Basics](https://www.kdnuggets.com/mastering-python-for-data-science-beyond-the-basics)
