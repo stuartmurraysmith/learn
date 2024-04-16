@@ -4,6 +4,8 @@ Cisco | DevOps | Linux | Python
 
 ## Cisco
 
+[Learning Network](https://learningnetwork.cisco.com/)
+[Cisco U](https://u.cisco.com)
 [Omar Santos](https://github.com/The-Art-of-Hacking)
 
 ## Python
